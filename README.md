@@ -19,16 +19,21 @@ To identify functional issues using **positive and negative test cases**
 To validate UI behavior and user interaction flow
 To ensure consistent behavior across different test scenarios
 
+
+
 -- ▶ How to Run the Tests
 
--- 1. Install Dependencies
-npm install
+-- 1. Install Dependencies: 
+npm init playwright@latest
 
--- 2. Run All Tests
+-- 2. Run All Tests: 
 npx playwright test
 
--- 3️. View HTML Report
+-- 3️. View HTML Report: 
 npx playwright show-report
+
+
+
 
 -- 📊 Test Reporting
 
