@@ -22,7 +22,7 @@ To ensure consistent behavior across different test scenarios
 -- ▶ How to Run the Tests
 
 -- 1. Install Dependencies
-npm install
+npm init playwright@latest
 
 -- 2. Run All Tests
 npx playwright test
