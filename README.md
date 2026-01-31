@@ -32,7 +32,6 @@ npx playwright test
 -- 3️. View HTML Report: 
 npx playwright show-report
 
-<img width="314" height="581" alt="image" src="https://github.com/user-attachments/assets/c7b2e44d-5415-4e1d-9dd3-76327b1b9552" />
 
 
 
@@ -58,6 +57,10 @@ VS Code – Development environment
 Playwright Test Runner & HTML Reports
 
 Project Structure
+
+<img width="314" height="581" alt="image" src="https://github.com/user-attachments/assets/c7b2e44d-5415-4e1d-9dd3-76327b1b9552" />
+
+
 
 
 IT3040_ASSIGNMENT_PLAYWRIGHTx/
