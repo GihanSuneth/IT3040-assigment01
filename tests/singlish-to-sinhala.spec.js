@@ -149,7 +149,7 @@ const positiveCases = [
   },
   {
     id: "Pos_UI__0001",
-    input: "mata hadissiyak velaa mama gedhara yana gaman inne.",
+    input: "mata hadhissiyak velaa mama gedhara yana gaman inne.",
     expected: "මට හදිස්සියක් වෙලා මම ගෙදර යන ගමන් ඉන්නේ."
   }
   
