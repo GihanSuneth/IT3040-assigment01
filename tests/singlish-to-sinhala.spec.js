@@ -206,7 +206,12 @@ const negativeCases = [
     id: "Neg_Fun_0010",
     input: "dhaen kaalee godak developers la coding walata AI assistants la use karanawa. Specially simple functions generate karaganna nathnam code eke thiyena bugs fix karaganna meka mara useful. Oyaata thiyenne hariyata logic eka explain karala prompt eka type karanna witharai. Ethakota complex algorithms unath seconds walin output eka ganna puluwan.",
     expected: "දැන් කාලේ ගොඩක් developers ල coding වලට AI assistants ල use කරනවා. Specially simple functions generate කරගන්න නැත්නම් code එකේ තියෙන bugs fix කරගන්න මේක මාර useful. ඔයාට තියෙන්නෙ හරියට logic එක explain කරල prompt එක type කරන්න විතරයි. එතකොට complex algorithms උනත් seconds වලින් output එක ගන්න පුලුවන්."
-  }
+  },
+  {
+    id: "Neg_UI_0001",
+    input: "hsbdjhabdahbdauhcbc chsdbvusdhvbshuv hv sv shv suhv shv svdhusvbshvbsjhdc dshv hvsvhjs jsv sjhc jvh vjhs vshv sjhv sjhv sjvh dsvjhs vhjs vjhsv jshv sjhv svjhs jshv sjhv shjv vjhsv jsvh sjhv jvhs jhsv sjhv shv shcsjhs cacsaacacdc hfweiufgwifwiiwufgiufgwfugfuiwgfwiufgh cacac dcdscsvsdvsvs svsdvsvs vsvdvswefwfre grvgeve fbshcvsjhsjvhbsdvhsvhsbv",
+    expected: "hsbdjhabdahbdauhcbc chsdbvusdhvbshuv hv sv shv suhv shv svdhusvbshvbsjhdc dshv hvsvhjs jsv sjhc jvh vjhs vshv sjhv sjhv sjvh dsvjhs vhjs vjhsv jshv sjhv svjhs jshv sjhv shjv vjhsv jsvh sjhv jvhs jhsv sjhv shv shcsjhs cacsaacacdc hfweiufgwifwiiwufgiufgwfugfuiwgfwiufgh cacac dcdscsvsdvsvs svsdvsvs vsvdvswefwfre grvgeve fbshcvsjhsjvhbsdvhsvhsbv"
+  },
 ];
 
 // --------- Tests ----------
