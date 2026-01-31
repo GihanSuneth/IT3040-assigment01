@@ -19,6 +19,8 @@ To identify functional issues using **positive and negative test cases**
 To validate UI behavior and user interaction flow
 To ensure consistent behavior across different test scenarios
 
+
+
 -- ▶ How to Run the Tests
 
 -- 1. Install Dependencies: 
@@ -29,6 +31,9 @@ npx playwright test
 
 -- 3️. View HTML Report: 
 npx playwright show-report
+
+
+
 
 -- 📊 Test Reporting
 
