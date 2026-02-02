@@ -70,7 +70,7 @@ Project Structure
 
 
 
-
+```bash
 IT3040_ASSIGNMENT_PLAYWRIGHTx/
 │
 ├── node_modules/               Project dependencies
@@ -88,16 +88,20 @@ IT3040_ASSIGNMENT_PLAYWRIGHTx/
 ├── package-lock.json
 ├── playwright.config.js        Playwright configuration
 └── README.md                   Project documentation
+```
+
 
 
 -- 🧾 Test Case Summary
 
+```bash
 | Test Type      | Count  |
 | -- |  |
 | Positive Tests | 24     |
 | Negative Tests | 10     |
 | UI Tests       | 2      |
 | Total     | 36 |
+```
 
  Invalid or random text
 
