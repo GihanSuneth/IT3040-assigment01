@@ -23,8 +23,8 @@ To ensure consistent behavior across different test scenarios
 
 -- ▶ How to Run the Tests
 
--- 1. Install Dependencies:
-Clone the repository
+-- 1. Clone Repository:
+Clone the repository from Github
 
 -- 2. Install Dependencies: 
 npm init playwright@latest
