@@ -23,13 +23,16 @@ To ensure consistent behavior across different test scenarios
 
 -- ▶ How to Run the Tests
 
--- 1. Install Dependencies: 
+-- 1. Install Dependencies:
+Clone the repository
+
+-- 2. Install Dependencies: 
 npm init playwright@latest
 
--- 2. Run All Tests: 
+-- 3. Run All Tests: 
 npx playwright test
 
--- 3️. View HTML Report: 
+-- 4. View HTML Report: 
 npx playwright show-report
 
 
