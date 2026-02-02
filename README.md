@@ -27,14 +27,19 @@ To ensure consistent behavior across different test scenarios
 Clone the repository from Github
 
 -- 2. Install Dependencies: 
+```bash
 npm init playwright@latest
+```
 
 -- 3. Run All Tests: 
+```bash
 npx playwright test
+```
 
 -- 4. View HTML Report: 
+```bash
 npx playwright show-report
-
+```
 
 
 
